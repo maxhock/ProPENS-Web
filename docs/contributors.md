@@ -23,4 +23,9 @@ Here's a big shoutout to them! 🌟
 
 ---
 
+## Assistant: Maximilian Hock
+
+---
+
+
 We’re so grateful for the energy, creativity, and passion these contributors bring to the table. Together, we’re building something amazing! 💻✨

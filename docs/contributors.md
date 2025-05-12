@@ -23,7 +23,7 @@ Here's a big shoutout to them! 🌟
 
 ---
 
-## Assistant: Maximilian Hock
+## Supervisor: Maximilian Hock
 
 ---
 

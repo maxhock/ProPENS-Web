@@ -3,7 +3,7 @@
 This website is possible because of the incredible efforts of our talented student contributors. 
 Here's a big shoutout to them! 🌟
 
-## 🌟 Contributor 1: [Your Name Here]
+## 🌟 Contributor 1: [Leni]
 - **Role:** [Your Role Here]
 
 ---

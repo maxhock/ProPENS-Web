@@ -18,7 +18,7 @@ Here's a big shoutout to them! 🌟
 
 ---
 
-## 🌟 Contributor 4: [Your Name Here]
+## 🌟 Contributor 4: Emilia Wengorz
 - **Role:** [Your Role Here]
 
 ---

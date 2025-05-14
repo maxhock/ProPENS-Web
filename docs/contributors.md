@@ -8,7 +8,7 @@ Here's a big shoutout to them! 🌟
 
 ---
 
-## 🌟 Contributor 2: [Your Name Here]
+## 🌟 Contributor 2: [Mustafa Parlak]
 - **Role:** [Your Role Here]
 
 ---

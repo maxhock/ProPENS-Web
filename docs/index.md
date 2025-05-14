@@ -15,7 +15,7 @@ Use `#` for H1, `##` for H2, and so on...
 #### H4  
 ##### H5  
 ###### H6  
-{contributors}
+{{contributors}}
 
 ---  
 

@@ -13,7 +13,7 @@ Here's a big shoutout to them! 🌟
 
 ---
 
-## 🌟 Contributor 3: [Your Name Here]
+## 🌟 Contributor 3: [Berin Aktas]
 - **Role:** [Your Role Here]
 
 ---
